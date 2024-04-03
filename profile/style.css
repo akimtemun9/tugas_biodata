@@ -1,0 +1,152 @@
+/* biodata*/
+body{
+    background-image: url(RR.jpg);
+    color: orange;
+    text-align: center ;
+    
+    
+    }
+
+    body{
+        a{
+            color: blue;
+            position: relative;
+            top: -5px;
+
+        }
+    }
+/* beranda*/
+    .body1 {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-image: url(RR.jpg);
+    
+        
+    }
+    .container1 {
+        width: 80%;
+        margin: 0 auto;
+        padding: 20px;
+        background-color:whitesmoke;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-top: 50px;
+        color:black;
+       
+        
+    }
+    .body2{
+        p{
+            text-align: center;
+        }
+    }
+/* hobi */
+    .body3{
+        background-image: url(RR.jpg);
+        color: orange;
+        text-align: center;
+    }
+/* kemampuan*/
+    .body4 {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color:rgb(53, 52, 52);
+    
+        
+    }
+    .container2 {
+        width: 80%;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-top: 250px;
+        color:black;
+    }
+    h1{
+        text-align: center;
+    }
+/* pendidikan*/
+    .body5 {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color:burlywood;
+    
+        
+    }
+    .container3 {
+        text-align: left;
+        width: 80%;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-top: 50px;
+        color: b;
+       
+        
+    }
+    h1 {
+        text-align: center;
+    }
+    .Riwayat_pendidikan-item {
+        margin-bottom: 10px;
+    }
+    .Riwayat_Pendidikan-item label {
+        font-weight: bold;
+  
+    }
+
+    /* pengalaman*/
+
+    .body8{
+        background-image: url(gunung.jpg);
+        text-align: center;
+        color: white
+   
+    }
+    .container4 {
+        width: 80%;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-top: 50px;
+        color: black;
+    }
+
+    /* penghargaan */
+
+    .body9{
+        text-align: center;
+        color: white;
+        background-color: black;
+    }
+
+    /*tentang*/
+
+  
+    .container5{
+        width: 80%;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: rgb(34, 33, 33);
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-top: 250px;
+        color: white;
+  
+    }
+
+    .body10{
+        background-image: url(ppkampua.png);
+    }
+
+
+    
